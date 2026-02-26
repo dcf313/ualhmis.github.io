@@ -26,7 +26,7 @@
 | | | | |
 | 11	 | 	E. C. MARCOS	 |  |  |
 | | | | |
-| 12	 | 	E. B. JUAN FRANCISCO	 |  |  |
+| 12	 | 	E. B. JUAN FRANCISCO	 | Equipo 16 | Juanfran514 |
 | | | | |
 | 13	 | 	E. P. IVAN	 |  |  |
 | | | | |
