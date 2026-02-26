@@ -20,7 +20,7 @@
 | | | | |
 | 8	 | 	C. Q. CRISTOBAL	 |  |  |
 | | | | |
-| 9	 | 	C. F. DAVID	 |  |  |
+| 9	 | 	C. F. DAVID	 | Equipo 2 | dcf313 |
 | | | | |
 | 10	 | 	D. V. MARTIN	 |  |  |
 | | | | |
